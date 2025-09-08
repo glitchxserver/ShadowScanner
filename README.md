@@ -18,8 +18,11 @@ ShadowScan is a lightweight yet powerful port scanning tool written in Python. I
 🛡 Lightweight & cross-platform (runs anywhere with Python 3)
 
 📦 Installation
+
 git clone https://github.com/yourusername/shadowscan.git
+
 cd shadowscan
+
 python3 shadowscan.py --help
 
 ▶️ Usage Examples
